@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.amazon.com	TRUE	/	FALSE	1999999999	i18n-prefs	USD
+.amazon.com	TRUE	/	FALSE	1999999999	skin	noskin
+.amazon.com	TRUE	/	FALSE	1999999999	session-token	9D4txZqaVvPsYqZHyhrMrjMunkhN4j/K894WTdK7/kfRf1whtdap4YY8o2ivH7X4RNJhpP0V5btebWDBllsQ7BrthkF2+fzTW0nZUQN4dS+zTC1HT+U7J9NY4K0Sq0SOrpWVdp7ghJc5STDmbPR0ikMJxNi9BwIs0/jfvhFGVH5S+6ubrpnF697NC+qPyhHdm3auJ9mFD4QypJZfSM/0TkJLftjb1I6vimuOd2Ba9fovrkZMvpPZz7r7jNCy6fNwgALcwISf4xGsV2FT2EPTxO3Lom4hH+ZssKEbrvV/Vs2pa5nCYDH2BO7rrM90cOrO1ho8/p2oi0whXqUi8GADS1BxunJzLyls
+.amazon.com	TRUE	/	FALSE	1999999999	ubid-main	132-2016568-9628419
+.amazon.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazon.com	TRUE	/	FALSE	1999999999	session-id	147-1843945-3060610
+.amazon.com	TRUE	/	FALSE	1999999999	sp-cdn	L5Z9:SA"
+
